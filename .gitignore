@@ -1,0 +1,40 @@
+# Rust
+/target
+/backend/target
+/frontend/target
+Cargo.toml.backup
+Cargo.lock
+**/*.rs.bk
+
+# Node
+node_modules/
+ui/dist/
+frontend/ui/dist/
+.vite/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Tauri
+/frontend/gen
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Test
+hex
+
+# Claude Code
+CLAUDE.md
