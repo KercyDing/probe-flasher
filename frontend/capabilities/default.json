@@ -1,0 +1,11 @@
+{
+  "$schema": "https://tauri.app/v2/schemas/capability-schema.json",
+  "identifier": "default",
+  "description": "Default capabilities for the application",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "dialog:allow-open",
+    "dialog:default"
+  ]
+}
