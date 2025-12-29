@@ -2,6 +2,8 @@
 
 STM32 串口烧录工具，通过 UART 接口烧录 Intel HEX 固件到 STM32 芯片。支持自动进入 Bootloader 模式（DTR/RTS 控制），提供图形界面和命令行两种使用方式。
 
+<img width="1112" height="812" alt="截屏2025-12-30 07 49 52" src="https://github.com/user-attachments/assets/3faeaa2b-5829-455e-a3e1-313a69c1d30d" />
+
 ## 功能特性
 
 - 自动检测可用串口
